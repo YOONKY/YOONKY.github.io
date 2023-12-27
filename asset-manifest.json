@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.3d2862ee.js",
+    "static/js/27.aae8390a.chunk.js": "/static/js/27.aae8390a.chunk.js",
+    "static/media/sea_house.glb": "/static/media/sea_house.fe716782a904d1b3cf55.glb",
+    "static/media/web2.png": "/static/media/web2.ad0c99daf07224388443.png",
+    "static/media/web3.png": "/static/media/web3.025201c08b8a05cb6df3.png",
+    "static/media/jump-transformed.glb": "/static/media/jump-transformed.f378f239506cbb925faa.glb",
+    "static/media/figma.glb": "/static/media/figma.c854857856eb81e7d234.glb",
+    "static/media/aws.glb": "/static/media/aws.2fbcfe847b0b1011a152.glb",
+    "static/media/web1.png": "/static/media/web1.3e6b35b6ed23651aef9b.png",
+    "static/media/gitcat.glb": "/static/media/gitcat.fdf0d38be64ad6f778e5.glb",
+    "static/media/desktop2.png": "/static/media/desktop2.6a8d4afca8f18f4c3b64.png",
+    "static/media/desktop1.png": "/static/media/desktop1.e9dcfae76166bdb2b42f.png",
+    "static/media/react.glb": "/static/media/react.9e66883fc56ed367a307.glb",
+    "static/media/mobile2.png": "/static/media/mobile2.3cba37bf5a83d39ffeff.png",
+    "static/media/desktop.glb": "/static/media/desktop.4c12ad37ac9437d5a3b3.glb",
+    "static/media/web.glb": "/static/media/web.5151d10e6bde9d953d0f.glb",
+    "static/media/mobile.glb": "/static/media/mobile.323001a46bd7b622da5a.glb",
+    "static/media/mobile1.png": "/static/media/mobile1.eb606cdb2173eea5eacc.png",
+    "static/media/basic.glb": "/static/media/basic.c607b357a39cb77fde7c.glb",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/js/main.3d2862ee.js"
+  ]
+}
